@@ -19,27 +19,9 @@ The repository also contains calculations of the homogeneous Hopf bifurcation an
 The simulations solve the two-dimensional Gray–Scott reaction–diffusion system
 
 $$
-\frac{\partial U}{\partial t}
-=============================
-
-## D_U\nabla^2U
-
-UV^2
-+
-F(1-U),
+\frac{\partial U}{\partial t}=D_U\nabla^2U-UV^2+F(1-U),$$
 $$
-
-$$
-\frac{\partial V}{\partial t}
-=============================
-
-D_V\nabla^2V
-+
-UV^2
-----
-
-(F+K)V,
-$$
+\frac{\partial V}{\partial t}=D_V\nabla^2V+UV^2-(F+K)V,$$
 
 where:
 
