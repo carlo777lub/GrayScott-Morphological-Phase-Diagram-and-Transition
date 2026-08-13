@@ -1,0 +1,22 @@
+mapa,clase_final,region,conteo_puntos,porcentaje_mapa,total_puntos_mapa
+"Cuadrada U0=0.50, V0=0.25",1,Saturación,27869,44.5904,62500
+"Cuadrada U0=0.50, V0=0.25",2,Cte_i,369,0.5904,62500
+"Cuadrada U0=0.50, V0=0.25",3,Inhibición por contacto,1303,2.0848,62500
+"Cuadrada U0=0.50, V0=0.25",4,Laberintos,1551,2.4816,62500
+"Cuadrada U0=0.50, V0=0.25",5,División celular,27126,43.4016,62500
+"Cuadrada U0=0.50, V0=0.25",6,Senescencia,4282,6.8512,62500
+"Cuadrada U0=0.50, V0=0.25",7,Cte≈0 / Extinción,0,0,62500
+"Cuadrada U0=0.10, V0=0.90",1,Saturación,25582,40.9312,62500
+"Cuadrada U0=0.10, V0=0.90",2,Cte_i,415,0.664,62500
+"Cuadrada U0=0.10, V0=0.90",3,Inhibición por contacto,2429,3.8864,62500
+"Cuadrada U0=0.10, V0=0.90",4,Laberintos,1576,2.5216,62500
+"Cuadrada U0=0.10, V0=0.90",5,División celular,28013,44.8208,62500
+"Cuadrada U0=0.10, V0=0.90",6,Senescencia,4287,6.8592,62500
+"Cuadrada U0=0.10, V0=0.90",7,Cte≈0 / Extinción,198,0.3168,62500
+"Centrada U0=0.10, V0=0.90",1,Saturación,33863,54.1808,62500
+"Centrada U0=0.10, V0=0.90",2,Cte_i,210,0.336,62500
+"Centrada U0=0.10, V0=0.90",3,Inhibición por contacto,681,1.0896,62500
+"Centrada U0=0.10, V0=0.90",4,Laberintos,1449,2.3184,62500
+"Centrada U0=0.10, V0=0.90",5,División celular,21874,34.9984,62500
+"Centrada U0=0.10, V0=0.90",6,Senescencia,4304,6.8864,62500
+"Centrada U0=0.10, V0=0.90",7,Cte≈0 / Extinción,119,0.1904,62500

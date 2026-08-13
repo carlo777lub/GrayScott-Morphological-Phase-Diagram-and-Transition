@@ -1,0 +1,4 @@
+mapa,total_puntos_mapa,clase_1_Saturación,clase_2_Cte_i,clase_3_Inhibición por contacto,clase_4_Laberintos,clase_5_División celular,clase_6_Senescencia,clase_7_Cte≈0 / Extinción
+"Cuadrada U0=0.50, V0=0.25",62500,27869,369,1303,1551,27126,4282,0
+"Cuadrada U0=0.10, V0=0.90",62500,25582,415,2429,1576,28013,4287,198
+"Centrada U0=0.10, V0=0.90",62500,33863,210,681,1449,21874,4304,119
