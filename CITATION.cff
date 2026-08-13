@@ -1,0 +1,37 @@
+cff-version: 1.0
+
+message: >-
+  If you use these data or numerical codes in your research,
+  please cite this repository and the associated scientific article.
+
+type: dataset
+
+title: "GrayScott Morphological Phase Diagram and Transition"
+
+authors:
+  - family-names: "Cruz Castillo"
+    given-names: "Carlos Alberto"
+
+abstract: >-
+  Numerical data and computational codes supporting the morphological
+  phase diagram, initial-condition robustness analysis, class 2-to-3
+  morphological transition boundary, Hopf-bifurcation comparison,
+  and linear diffusive-mode analysis of the Gray-Scott
+  reaction-diffusion model.
+
+repository-code: "https://github.com/carlo777lub/GrayScott-Morphological-Phase-Diagram-and-Transition"
+
+url: "https://github.com/carlo777lub/GrayScott-Morphological-Phase-Diagram-and-Transition"
+
+keywords:
+  - Gray-Scott model
+  - reaction-diffusion systems
+  - morphological phase diagram
+  - morphological transition
+  - pattern formation
+  - initial-condition robustness
+  - Hopf bifurcation
+  - diffusive modes
+  - nonlinear dynamics
+  - computational physics
+```
