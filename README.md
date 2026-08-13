@@ -2,6 +2,15 @@
 
 Data and numerical codes supporting the morphological phase diagram, initial-condition robustness analysis, and linear diffusive-mode analysis of the Gray–Scott reaction–diffusion model.
 
+## License
+
+The source code in this repository is licensed under the MIT License.
+See the `LICENSE` file.
+
+Research datasets (`.csv`, `.mat`) and associated dataset documentation
+are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). See `DATA_LICENSE.md`.
+
 ## Overview
 
 This repository contains the numerical data, analysis files, and computational codes associated with a systematic morphological study of the Gray–Scott reaction–diffusion model.
