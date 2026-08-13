@@ -6,9 +6,9 @@ Data and numerical codes supporting the morphological phase diagram, initial-con
 
 This repository contains the numerical data, analysis files, and computational codes associated with a systematic morphological study of the Gray–Scott reaction–diffusion model.
 
-The study examines the organization of dynamical and morphological regimes in the ((F,K)) parameter plane and, in particular, the robustness of the boundary separating the **active homogeneous** and **temporally variable** regimes under different initial perturbations.
+The study examines the organization of dynamical and morphological regimes in the $(F,K)$ parameter plane and, in particular, the robustness of the boundary separating the **active homogeneous** and **temporally variable** regimes under different initial perturbations.
 
-Although the global morphological phase diagram changes substantially when the initial condition is modified, the class (2\rightarrow3) transition boundary is found to remain comparatively robust over a broad common interval of (K).
+Although the global morphological phase diagram changes substantially when the initial condition is modified, the class $(2\rightarrow3)$ transition boundary is found to remain comparatively robust over a broad common interval of (K).
 
 The repository also contains calculations of the homogeneous Hopf bifurcation and diffusive eigenmodes used to investigate the dynamical origin and location of this morphological transition.
 
