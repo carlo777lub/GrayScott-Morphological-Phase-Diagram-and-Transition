@@ -81,21 +81,15 @@ Three perturbations are compared:
 
 1. **Centered perturbation**
 
-   [
-   U_0=0.10,\qquad V_0=0.90
-   ]
+$[U_0=0.10,\qquad V_0=0.90]$
 
 2. **Square perturbation**
 
-   [
-   U_0=0.50,\qquad V_0=0.25
-   ]
+$[U_0=0.50,\qquad V_0=0.25]$
 
 3. **Square perturbation**
 
-   [
-   U_0=0.10,\qquad V_0=0.90
-   ]
+$[U_0=0.10,\qquad V_0=0.90]$
 
 These initial conditions produce visibly different global morphological phase diagrams and therefore provide a direct test of the sensitivity of the phase-space organization to the initial perturbation.
 
