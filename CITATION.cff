@@ -1,12 +1,16 @@
-cff-version: 1.0
+cff-version: 1.2.0
 
 message: >-
   If you use these data or numerical codes in your research,
   please cite this repository and the associated scientific article.
 
-type: dataset
+type: software
 
 title: "GrayScott Morphological Phase Diagram and Transition"
+
+version: "1.0.0"
+
+license: "MIT"
 
 authors:
   - family-names: "Cruz Castillo"
@@ -34,4 +38,3 @@ keywords:
   - diffusive modes
   - nonlinear dynamics
   - computational physics
-```
